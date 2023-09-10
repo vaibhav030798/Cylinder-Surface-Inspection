@@ -183,8 +183,3 @@ Here is how to install the Darknet framework (If you are going to use GPU, then 
 
 Tools
 CUDA Requirements: Cuda 11.x & Cudnn
-
-```bash
-git clone https://github.com/pjreddie/darknet.git
-cd darknet
-make
