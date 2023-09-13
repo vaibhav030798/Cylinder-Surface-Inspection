@@ -1,7 +1,4 @@
-# Cylinder-Surface-Inspection
 Cylinder surface inspection with the help of instance segmentation MASK- RCNN
-
-# Cylinder Surface Inspection System Documentation
 
 **Author:** Vaibhav Kurrey
 
@@ -178,8 +175,3 @@ For the purpose of classification, independent logistic classifiers are used wit
 We will use the Darknet neural network framework for training and testing. The framework uses multi-scale training, lots of data augmentation, and batch normalization. It is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 
 You can find the source on GitHub at [https://github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet).
-
-Here is how to install the Darknet framework (If you are going to use GPU, then update GPU=1 and CUDNN=1 in the makefile):
-
-Tools
-CUDA Requirements: Cuda 11.x & Cudnn
