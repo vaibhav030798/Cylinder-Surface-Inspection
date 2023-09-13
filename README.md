@@ -1,5 +1,8 @@
 Cylinder surface inspection with the help of instance segmentation MASK- RCNN
 
+![imgonline-com-ua-twotoone-fpBEcYxPtNca1cI](https://github.com/vaibhav030798/Cylinder-Surface-Inspection/assets/76680409/1bdd9488-bec2-4c81-b602-2c6081c8658e)
+
+
 **Author:** Vaibhav Kurrey
 
 ## Introduction
